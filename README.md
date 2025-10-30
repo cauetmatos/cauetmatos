@@ -1,6 +1,6 @@
 ## 👋 OLÁ, eu sou o CAUET DE SOUZA!
 ---
-## ☕ DEV JAVA
+## ☕ DESENVOLVEDOR JAVA
 ---
 ## 💬 Sobre mim
 
