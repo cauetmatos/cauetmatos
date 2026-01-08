@@ -5,7 +5,7 @@
 ## 💬 Sobre mim
 
 - 👨‍💻 Atualmente estudando: Java, Spring Boot e SQL
-- 📘 Formação: Sou formado em Analise e Desenvolvimento de Sistema e atualmente estou cursando Engenharia da Computação
+- 📘 Formação: Sou formado em Analise e Desenvolvimento de Sistema e atualmente estou cursando Sistema da Informação
 - ✍️ Gosto de aprender com projetos práticos e desafios de programação
 - 💡 Meu objetivo é atuar como **Desenvolvedor Backend Java**
 
