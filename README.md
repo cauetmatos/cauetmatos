@@ -1,24 +1,24 @@
 ## 👋 OLÁ, eu sou o CAUET DE SOUZA!
 ---
-## ☕ DESENVOLVEDOR JAVA
+## ☕ ANALISTA DE DADOS JUNIOR
 ---
 ## 💬 Sobre mim
 
-- 👨‍💻 Atualmente estudando: Java, Spring Boot e SQL
-- 📘 Formação: Sou formado em Analise e Desenvolvimento de Sistema e atualmente estou cursando Sistema da Informação
-- ✍️ Gosto de aprender com projetos práticos e desafios de programação
-- 💡 Meu objetivo é atuar como **Desenvolvedor Backend Java**
+- 📊 Atualmente estudando: Análise de Dados, Python, SQL e Power BI
+- 📘 Formação: Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Sistema da Informação
+- 📈 Gosto de transformar dados em insights para apoiar decisões
+- 💡 Meu objetivo é atuar como Analista de Dados
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-- ☕ Java (POO, Collections, Streams, etc.)
-- 🌱 Spring Boot (em aprendizado)
+- 🐍 Python (Pandas, NumPy, Matplotlib)
+- 🗄️ SQL (PostgreSQL / MySQL)
 - 🐘 PostgreSQL / MySQL
-- 📦 Maven / Gradle
+- 📊 Power BI
 - 🔧 Git e GitHub
-- 💡 Oracle / IntelliJ IDEA
+- 🐼 Excel (análises, dashboards, funções avançadas)
 
 ---
 
@@ -31,13 +31,16 @@
 <div style="display: inline_block"><br>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<img align="center" alt="Cauet-Java" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="center" alt="Cauet-Python" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="Cauet-cSharp" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Cauet-Html" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />    
-<img align="center" alt="Cauet-Css" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="center" alt="Cauet-IntelliJ" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 
-          
-          
+<img align="center" alt="Cauet-Pandas" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+
+<img align="center" alt="Cauet-Numpy" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+
+<img align="center" alt="Cauet-MySQL" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<img align="center" alt="Cauet-PostgreSQL" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<img align="center" alt="Cauet-Java" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
 </div> 
