@@ -31,16 +31,21 @@
 <div style="display: inline_block"><br>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<img align="center" alt="Cauet-Python" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="Cauet-Python" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="Cauet-Pandas" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="center" alt="Cauet-Numpy" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 
-<img align="center" alt="Cauet-Pandas" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<!-- Data Visualization -->
+<img align="center" alt="Cauet-Matplotlib" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 
-<img align="center" alt="Cauet-Numpy" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<!-- SQL -->
+<img align="center" alt="Cauet-MySQL" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Cauet-PostgreSQL" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-<img align="center" alt="Cauet-MySQL" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<!-- Machine Learning -->
+<img align="center" alt="Cauet-ScikitLearn" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 
-<img align="center" alt="Cauet-PostgreSQL" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-<img align="center" alt="Cauet-Java" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<!-- Cloud -->
+<img align="center" alt="Cauet-AWS" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 </div> 
